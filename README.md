@@ -96,7 +96,7 @@ Model performances were evaluated using the **Macro-F1 score**. The table below 
 └── README.md                   # Project documentation
 ```
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 
