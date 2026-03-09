@@ -123,7 +123,7 @@ jupyter notebook project_notebook_sgobba_matteo.ipynb
 
 Note: The notebook caches preprocessing steps using `joblib.Memory` to significantly speed up hyperparameter tuning runs.
 
-# Author
+## Author
 
 Matteo Sgobba
 
